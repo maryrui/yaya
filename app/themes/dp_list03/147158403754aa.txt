@@ -1,0 +1,13 @@
+'D:/WWW/wz/data/theme.build<br><br>a:2:{s:4:"data";s:2091:"a:5:{s:4:"name";s:9:"dp_list03";s:5:"title";s:16:"DP列表模板03";s:7:"version";s:3:"1.0";s:5:"files";a:15:{i:0;a:2:{s:4:"path";s:15:"/home/home.html";s:8:"checksum";s:32:"d170aea333af246936729ed1ab2fb296";}i:1;a:2:{s:4:"path";s:13:"/images/1.jpg";s:8:"checksum";s:32:"14842ec80cb379e030764e1fecd5d9ec";}i:2;a:2:{s:4:"path";s:13:"/images/2.jpg";s:8:"checksum";s:32:"68f11ccc61d50cf5a35873a2f1c66b3b";}i:3;a:2:{s:4:"path";s:13:"/images/3.jpg";s:8:"checksum";s:32:"4b171ff38ed815285990e3169af3dcb4";}i:4;a:2:{s:4:"path";s:13:"/images/4.jpg";s:8:"checksum";s:32:"6ac71dda838152502593ecc43fb8fa45";}i:5;a:2:{s:4:"path";s:13:"/images/4.mp3";s:8:"checksum";s:32:"b6f48d4b7a5bcec40cde49e73d303770";}i:6;a:2:{s:4:"path";s:14:"/images/jt.png";s:8:"checksum";s:32:"d85f08281ef92d0c610e4e750e4c9162";}i:7;a:2:{s:4:"path";s:16:"/images/play.png";s:8:"checksum";s:32:"b8362b08b68c9b365cd7e335f7355c23";}i:8;a:2:{s:4:"path";s:21:"/images/plugmenu1.png";s:8:"checksum";s:32:"bc140196b89bcaf973c2f4a755972042";}i:9;a:2:{s:4:"path";s:21:"/images/plugmenu5.png";s:8:"checksum";s:32:"1c3b5c816c3616d59c6e2a4c992cc51f";}i:10;a:2:{s:4:"path";s:21:"/images/plugmenu6.png";s:8:"checksum";s:32:"e789b8b20e8695ec535c8c52e0df9161";}i:11;a:2:{s:4:"path";s:21:"/images/plugmenu8.png";s:8:"checksum";s:32:"65bcd0af7712ba59cd273fe07b04d6e3";}i:12;a:2:{s:4:"path";s:16:"/images/stop.png";s:8:"checksum";s:32:"48313cd03313a65f2f9f8eb9bd1d73a6";}i:13;a:2:{s:4:"path";s:12:"/preview.jpg";s:8:"checksum";s:32:"ee2f1ec2003dd2e992100039c871929a";}i:14;a:2:{s:4:"path";s:15:"/site/list.html";s:8:"checksum";s:32:"aae25aa3119c30362ccd8d6730b92c13";}}s:8:"manifest";s:453:"<?xml version="1.0" encoding="utf-8"?>
+<manifest versionCode="0.6">
+    <identifie><![CDATA[dp_list03]]></identifie>
+    <title><![CDATA[DP列表模板03]]></title>
+	<type><![CDATA[often]]></type>
+    <description><![CDATA[由微赞提供默认微站模板套系]]></description>
+    <author><![CDATA[微赞]]></author>
+    <url><![CDATA[http://bbs.012wz.com]]></url>
+	<sections><![CDATA[0]]></sections>
+	<settings>
+	</settings>
+</manifest>
+";}";s:6:"secret";s:32:"w3xIl5l3IOaEUZdln1Ei8C22eD35K323";}'

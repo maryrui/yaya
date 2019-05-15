@@ -1,0 +1,22 @@
+{
+  "code":1,
+  "info":[
+    {
+      "id":255,
+      "status":0,
+      "imgurl":"./images/tx.jpg",
+      "nickname":"03",
+      "content":"发言发言发言发言发言发言发言发言发言发言发言发言发言发言发言发言发言发言发言",
+      "msgtype":"text"
+    },
+    {
+      "id":256,
+      "status":0,
+      "imgurl":"./images/tx.jpg",
+      "nickname":"03",
+      "content":"./images/tx.jpg",
+      "msgtype":"image"
+    }
+  ]
+
+}

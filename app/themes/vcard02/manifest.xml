@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest versionCode="0.6">
+    <identifie><![CDATA[vcard02]]></identifie>
+    <title><![CDATA[微名片模版2]]></title>
+	<type><![CDATA[often]]></type>
+    <description><![CDATA[传统微名片受制于尺寸太小无法对企业或者产品进行详细介绍，而微名片弥补了这个问题，把您想要展示的内容通通上传到微名片的二维码内，将二维码打印在普通名片上，用户仅需要一部手机扫描二维码即可阅读，并且微名片有一大优点，内容可随时/随意修改,且更适合营销]]></description>
+    <author><![CDATA[超级源码]]></author>
+    <url><![CDATA[http://www.chaojiym.com]]></url>
+	<sections><![CDATA[0]]></sections>
+	<settings>
+		<item variable="vname" content="微某某" description="姓名"/>
+		<item variable="vcompany" content="XXX市XXX有限公司" description="公司"/>
+		<item variable="vposition" content="创始人" description="职位"/>
+		<item variable="vtelphone" content="0255-66668888" description="联系电话"/>
+		<item variable="vmobphone" content="15688888888" description="手机"/>
+		<item variable="vwechat" content="123456" description="微信"/>
+		<item variable="vqq" content="123456" description="QQ"/>
+		<item variable="vemail" content="123456@qq.com" description="邮箱"/>
+		<item variable="vwebsite" content="www.baidu.com" description="网站"/>	
+        <item variable="vaddress" content="深圳市XX区XX街道XX号" description="地址"/>
+		<item variable="vmaplat" content="122.888666" description="经度坐标"/>
+		<item variable="vmaplon" content="20.888666" description="纬度坐标"/>
+		<item variable="vmaplabel" content="我在这里" description="地图上显示名称"/>
+		<item variable="vc_lab1" content="自定义名称1" description="自定义变量1的名称"/>
+		<item variable="vc_val1" content="自定义值1" description="自定义变量1的值"/>
+		<item variable="vc_fab1" content="fa fa-bookmark-o" description="自定义变量1的图标样式"/>
+        <item variable="vc_Lab2" content="自定义名称2" description="自定义变量2的名称"/>		
+        <item variable="vc_val2" content="自定义值2" description="自定义变量2的值"/>
+		<item variable="vc_fab2" content="fa fa-bookmark-o" description="自定义变量2的图标样式"/>
+		<item variable="vc_lab3" content="自定义名称3" description="自定义变量3的名称"/>
+		<item variable="vc_val3" content="自定义值3" description="自定义变量3的值"/>
+		<item variable="vc_fab3" content="fa fa-bookmark-o" description="自定义变量3的图标样式"/>	
+		<item variable="vc_lab4" content="自定义名称4" description="自定义变量4的名称"/>
+		<item variable="vc_val4" content="自定义值4" description="自定义变量4的值"/>
+		<item variable="vc_fab4" content="fa fa-bookmark-o" description="自定义变量4的图标样式"/>	
+        <item variable="vc_lab5" content="自定义名称5" description="自定义变量5的名称"/>
+		<item variable="vc_val5" content="自定义值5" description="自定义变量5的值"/>
+		<item variable="vc_fab5" content="fa fa-bookmark-o" description="自定义变量5的图标样式"/>	       
+	</settings>
+</manifest>

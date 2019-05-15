@@ -1,0 +1,13 @@
+'D:/WWW/wz/data/theme.build<br><br>a:2:{s:4:"data";s:1685:"a:5:{s:4:"name";s:10:"dp_moban01";s:5:"title";s:16:"DP整站模板01";s:7:"version";s:3:"1.0";s:5:"files";a:11:{i:0;a:2:{s:4:"path";s:19:"/common/footer.html";s:8:"checksum";s:32:"87be18ff91df51c4f91bc2cdae55463c";}i:1;a:2:{s:4:"path";s:12:"/css/app.css";s:8:"checksum";s:32:"6f0718362a27e19ee509ed2e57df62ff";}i:2;a:2:{s:4:"path";s:16:"/css/mui.min.css";s:8:"checksum";s:32:"ad9e02fef3e3c23f8cf431a9b679a47d";}i:3;a:2:{s:4:"path";s:15:"/home/home.html";s:8:"checksum";s:32:"6158b61e5cd013e1db201c0d52826145";}i:4;a:2:{s:4:"path";s:16:"/img/thumb01.jpg";s:8:"checksum";s:32:"b2256b69f765440192e03fc92f42814d";}i:5;a:2:{s:4:"path";s:16:"/img/thumb02.jpg";s:8:"checksum";s:32:"c2e27ebeea7ac80c8cd636126692765d";}i:6;a:2:{s:4:"path";s:16:"/img/thumb03.jpg";s:8:"checksum";s:32:"ba55f03af82fad085bbf7c323c5da82b";}i:7;a:2:{s:4:"path";s:14:"/js/mui.min.js";s:8:"checksum";s:32:"54ab1dbd40c32410b7d0ca508f8fa4d4";}i:8;a:2:{s:4:"path";s:12:"/preview.jpg";s:8:"checksum";s:32:"493add87610b55a0e503e6902d123f99";}i:9;a:2:{s:4:"path";s:17:"/site/detail.html";s:8:"checksum";s:32:"1dc5d1e2ad209d73aa643f6a6f68c473";}i:10;a:2:{s:4:"path";s:15:"/site/list.html";s:8:"checksum";s:32:"56c147ba73b22320b4ebcf2a34867bc1";}}s:8:"manifest";s:454:"<?xml version="1.0" encoding="utf-8"?>
+<manifest versionCode="0.6">
+    <identifie><![CDATA[dp_moban01]]></identifie>
+    <title><![CDATA[DP整站模板01]]></title>
+	<type><![CDATA[often]]></type>
+    <description><![CDATA[由微赞提供默认微站模板套系]]></description>
+    <author><![CDATA[微赞]]></author>
+    <url><![CDATA[http://bbs.012wz.com]]></url>
+	<sections><![CDATA[0]]></sections>
+	<settings>
+	</settings>
+</manifest>
+";}";s:6:"secret";s:32:"UCzncWEXpxv229lCncNXN2bMBMCNXX9L";}'

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest versionCode="0.6">
+    <identifie><![CDATA[mihuakid]]></identifie>
+    <title><![CDATA[幼儿园微官网模板]]></title>
+	<type><![CDATA[often]]></type>
+    <description><![CDATA[幼儿园微官网模板，安装后直接在“站点管理”那里选择该模板，可二次开发、修改，在.../app/themes/mihuakid目录找到对应文件修改。]]></description>
+    <author><![CDATA[超级源码]]></author>
+    <url><![CDATA[http://www.chaojiym.com]]></url>
+	<sections><![CDATA[0]]></sections>
+	<settings>
+	</settings>
+</manifest>
